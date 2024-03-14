@@ -1,0 +1,16 @@
+Input Array 1:
+1 1 12 16 23 23 23 25 25 45 56 56 67 89 154 256 
+Result:
+Best performing algorithm: Insertion Sort
+Worst performing algorithm: Count Sort
+
+ALGORITHM--------TIME---------RAM MODEL
+Insertion Sort......2sec--- 65 
+Bubble Sort......2sec--- 240 
+Selection Sort......2sec--- 165 
+Quick Sort......3sec--- 493 
+Radix Sort......16sec--- 128 
+Bucket Sort......37sec--- 319 
+Merge Sort......44sec--- 48 
+Count Sort......71sec--- 219 
+
